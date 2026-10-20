@@ -72,23 +72,3 @@ I'm always open to discussing interesting projects, architectural solutions, new
 <a href="https://github.com/VlaBeh" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/VlaBeh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
 </a>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/VlaBeh">
-    <img src="https://github-readme-stats.vercel.app/api?username=VlaBeh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="VlaBeh's GitHub stats" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/VlaBeh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VlaBeh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/VlaBeh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlaBeh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
